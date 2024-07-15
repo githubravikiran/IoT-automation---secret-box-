@@ -10,4 +10,5 @@ Used modules and websits:
   6.Blynk IoT
 
 Here is the ciruit diagram of ESP-32 with required modules and sensors.
+
 ![ciruit_design](https://github.com/user-attachments/assets/b62fff66-3b0b-4b80-9344-cb387c443859)
