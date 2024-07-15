@@ -7,7 +7,7 @@
 #define BLYNK_TEMPLATE_NAME "Box automation with iot"
 #define BLYNK_AUTH_TOKEN "f6JKDqVQpMdckOqsYLqUXtbogkDw0BKU"
 #define ssid "Skytrack9840698842 D"
-#define pass "dhamodaran1965"
+#define pass "dhamodaran1980"
 #define BLYNK_PRINT Serial
 
 int pir=19;
