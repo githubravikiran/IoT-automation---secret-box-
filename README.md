@@ -22,3 +22,6 @@ Used modules and websites:
 Here is the ciruit diagram of ESP-32 with required modules and sensors.</p>
 
 ![ciruit_design](https://github.com/user-attachments/assets/b62fff66-3b0b-4b80-9344-cb387c443859)
+
+The screenshot of the message received through blynk and email can be seen on the message_screenshot.jpeg.
+
