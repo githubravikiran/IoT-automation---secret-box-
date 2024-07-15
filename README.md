@@ -5,12 +5,19 @@
 https://www.linkedin.com/posts/ravi-kiran-d-0616222a9_iot-automation-esp32-activity-7218461256611958784-48AF?utm_source=share&utm_medium=member_desktop
 
 Used modules and websites:
-  1.ESP-32,
-  2.Ultrasonic sensor,
-  3.PIR Sensor,
-  4.Servo motor,
-  5.Arduino IDE,
+
+  1.ESP-32
+  
+  2.Ultrasonic sensor
+  
+  3.PIR Sensor
+  
+  4.Servo motor
+  
+  5.Arduino IDE
+  
   6.Blynk IoT.
+
 
 Here is the ciruit diagram of ESP-32 with required modules and sensors.</p>
 
